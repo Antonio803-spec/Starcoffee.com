@@ -6,12 +6,12 @@
 - Links
 
 ### Project 2
-  - Description
-  - Links
+- Description
+- Links
 
 # Education
- - Some University
+- Some University
 
 # Work History
-  - Workplace 1
-  - Work place 2
+- Workplace 1
+- Work place 2
