@@ -4,7 +4,7 @@
 
 #### ![Iced Americano Star](https://github.com/user-attachments/assets/8ccb18f1-68e0-483c-a30b-059f7d91c90f) 
 Iced Americano  
-    Star
+  - Star
   - 8 RON
     
 ### Project 2
