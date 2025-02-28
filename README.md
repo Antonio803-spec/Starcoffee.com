@@ -1,4 +1,4 @@
-s# Starcoffee.github.io
+## Starcoffee.github.io
 
 ## Produsele Noastre
 
@@ -80,7 +80,7 @@ Star Prosciutto
 
 #### ![WhatsApp Image 2025-02-28 at 19 57 46_da2f74ab](https://github.com/user-attachments/assets/cfac51ed-4d2c-43fd-baad-deca2ffaf8e6)
 Star Chicken
-  - !4 RON
+  - 14 RON
 
 
 
