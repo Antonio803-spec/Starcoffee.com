@@ -2,8 +2,6 @@
 
 ## Produsele Noastre
 
-![image alt](https://github.com/Antonio803-spec/Starcoffee.github.io/blob/931dc94127a53f02bce6792a70510ddd6e4e0d48/Iced%20Americano%20Star.jpg)
-
 #### ![Iced Americano Star](https://github.com/user-attachments/assets/8ccb18f1-68e0-483c-a30b-059f7d91c90f) 
 Iced Americano - Star
   - 8 RON
