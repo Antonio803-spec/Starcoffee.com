@@ -61,6 +61,7 @@ Star Lemonade
 #### ![WhatsApp Image 2025-02-28 at 20 09 03_2e5f04e4](https://github.com/user-attachments/assets/a8134f35-50a3-44b7-abfb-741de74b9654)
 Star Kisses
   - 5 RON
+
 #### ![WhatsApp Image 2025-02-28 at 20 09 03_60e04fd0](https://github.com/user-attachments/assets/9fbcf41f-4612-4ce1-90de-5ad1a4bb55a9)
 Star Muffin
   - 6 RON
