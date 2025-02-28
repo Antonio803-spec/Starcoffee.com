@@ -1,7 +1,8 @@
 # Starcoffee.github.io
 
 ## Produsele Noastre
-### Project 1
+### ![Iced Americano Star](https://github.com/user-attachments/assets/8ccb18f1-68e0-483c-a30b-059f7d91c90f)
+
 - Description
 - Links
 
