@@ -6,9 +6,9 @@
 Iced Americano - Star
   - 8 RON
 
-     Această băutură este preferată de cei care doresc un gust autentic de cafea,
-    dar într-o variantă mai puțin concentrată decât un espresso simplu și mai puțin cremoasă decât un iced latte.
-    Se poate consuma simplu sau îndulcit.
+  - Această băutură este preferată de cei care doresc un gust autentic de cafea,
+   dar într-o variantă mai puțin concentrată decât un espresso simplu și mai puțin cremoasă decât un iced latte.
+   Se poate consuma simplu sau îndulcit.
 
 #### ![WhatsApp Image 2025-02-28 at 20 09 09_13475b97](https://github.com/user-attachments/assets/bb0f5bd4-5d6c-45e8-b447-f2ba16e403a4)
 Star Iced Latte
