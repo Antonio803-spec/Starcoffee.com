@@ -17,3 +17,12 @@ Star Ice Tea
 #### ![WhatsApp Image 2025-02-28 at 20 09 08_28a5c0fa](https://github.com/user-attachments/assets/1c5bea30-3d2f-4889-a5a1-8d754b0f4c5d)
 Oreo Star Frappe
   - 15 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 08_d11e5851](https://github.com/user-attachments/assets/fc1594d4-4260-4be3-9078-4554d22fe95c)
+Star Frappe
+  - 10 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 06_1da900b3](https://github.com/user-attachments/assets/66e9f041-ffb5-4f9e-9831-eed66b349702)
+Star Flat White
+  - 10 ROM
+    
