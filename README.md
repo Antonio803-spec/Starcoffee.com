@@ -2,7 +2,7 @@
 
 ## Produsele Noastre
 
-#### ![Iced Americano Star](https://github.com/user-attachments/assets/8ccb18f1-68e0-483c-a30b-059f7d91c90f) 
+#### ![Iced Americano Star](https://github.com/user-attachments/assets/8ccb18f1-68e0-483c-a30b-059f7d91c90f)  - Această băutură este preferată de cei care doresc un gust autentic de cafea, dar într-o variantă mai puțin concentrată decât un espresso simplu și mai puțin cremoasă decât un iced latte. Se poate consuma simplu sau îndulcit
 Iced Americano - Star
   - 8 RON
     
@@ -37,4 +37,5 @@ Milk Chocolate Star
 #### ![WhatsApp Image 2025-02-28 at 20 09 04_b6229bc5](https://github.com/user-attachments/assets/0a48cd0f-38c1-4714-82c9-c84599a5c9ed)
 Star Cappucino
   - 8 RON
+    
     
