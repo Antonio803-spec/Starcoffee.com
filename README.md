@@ -26,3 +26,15 @@ Star Frappe
 Star Flat White
   - 10 ROM
     
+#### ![WhatsApp Image 2025-02-28 at 20 09 06_22ae1b7a](https://github.com/user-attachments/assets/7e5199bc-e8d5-4ed2-b8be-cb1dd54be67f)
+Mocha Star
+  - 10 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 06_3d259d62](https://github.com/user-attachments/assets/e01c0cd0-c28e-438c-9b8a-cd29bf11b4f6)
+Milk Chocolate Star
+  - 12 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 04_b6229bc5](https://github.com/user-attachments/assets/0a48cd0f-38c1-4714-82c9-c84599a5c9ed)
+Star Cappucino
+  - 8 RON
+    
