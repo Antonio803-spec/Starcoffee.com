@@ -8,7 +8,8 @@ Iced Americano Star   - Această băutură este preferată de cei care dores
   - 8 RON
 
 #### ![WhatsApp Image 2025-02-28 at 20 09 09_13475b97](https://github.com/user-attachments/assets/bb0f5bd4-5d6c-45e8-b447-f2ba16e403a4)
-Star Iced Latte
+Star Iced Latte    -Este o băutură rece pe bază de espresso, lapte și gheață, adesea aromatizată cu siropuri dulci sau topping-uri. Este cunoscut pentru combinația sa echilibrată de cafea intensă și textură cremoasă, oferind o experiență răcoritoare și energizantă.
+
   - 11 RON
 
 #### ![WhatsApp Image 2025-02-28 at 20 09 08_f96ddd28](https://github.com/user-attachments/assets/d390428e-3efd-46b2-b927-c755cb664168)
