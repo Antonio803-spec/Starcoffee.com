@@ -12,4 +12,8 @@ Star Iced Latte
 
 #### ![WhatsApp Image 2025-02-28 at 20 09 08_f96ddd28](https://github.com/user-attachments/assets/d390428e-3efd-46b2-b927-c755cb664168)
 Star Ice Tea
- - 10 RON
+  - 10 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 08_28a5c0fa](https://github.com/user-attachments/assets/1c5bea30-3d2f-4889-a5a1-8d754b0f4c5d)
+Oreo Star Frappe
+  - 15 RON
