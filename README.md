@@ -1,6 +1,6 @@
 # Starcoffee.github.io
 
-## Projects
+## Produsele Noastre
 ### Project 1
 - Description
 - Links
