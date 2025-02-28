@@ -1,4 +1,4 @@
-# Starcoffee.github.io
+s# Starcoffee.github.io
 
 ## Produsele Noastre
 
@@ -61,14 +61,25 @@ Star Lemonade
 #### ![WhatsApp Image 2025-02-28 at 20 09 03_2e5f04e4](https://github.com/user-attachments/assets/a8134f35-50a3-44b7-abfb-741de74b9654)
 Star Kisses
   - 5 RON
-
-   
-
+#### ![WhatsApp Image 2025-02-28 at 20 09 03_60e04fd0](https://github.com/user-attachments/assets/9fbcf41f-4612-4ce1-90de-5ad1a4bb55a9)
+Star Muffin
+  - 6 RON
     
+#### ![WhatsApp Image 2025-02-28 at 20 09 04_23be1dd7](https://github.com/user-attachments/assets/d03c0279-9558-4ba7-8bc7-618e5056928a)
+Star Donut
+  - 6 RON
+    
+#### ![WhatsApp Image 2025-02-28 at 20 09 03_14a52137](https://github.com/user-attachments/assets/ea0c4640-2580-445e-976e-b0e58770277b)
+Star Salami 
+  - 11 RON
+    
+#### ![WhatsApp Image 2025-02-28 at 20 09 02_3ef29111](https://github.com/user-attachments/assets/ada211b9-1e81-41c2-9306-84d48b9a4b14)
+Star Prosciutto
+  - 15 RON
 
-
-
-
+#### ![WhatsApp Image 2025-02-28 at 19 57 46_da2f74ab](https://github.com/user-attachments/assets/cfac51ed-4d2c-43fd-baad-deca2ffaf8e6)
+Star Chicken
+  - !4 RON
 
 
 
