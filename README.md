@@ -2,7 +2,7 @@
 
 ## Produsele Noastre
 
-#### ![Iced Americano Star](https://github.com/user-attachments/assets/8ccb18f1-68e0-483c-a30b-059f7d91c90f)  - Această băutură este preferată de cei care doresc un gust autentic de cafea, dar într-o variantă mai puțin concentrată decât un espresso simplu și mai puțin cremoasă decât un iced latte. Se poate consuma simplu sau îndulcit
+#### ![Iced Americano Star](https://github.com/user-attachments/assets/8ccb18f1-68e0-483c-a30b-059f7d91c90f) 
 Iced Americano - Star
   - 8 RON
     
@@ -37,5 +37,61 @@ Milk Chocolate Star
 #### ![WhatsApp Image 2025-02-28 at 20 09 04_b6229bc5](https://github.com/user-attachments/assets/0a48cd0f-38c1-4714-82c9-c84599a5c9ed)
 Star Cappucino
   - 8 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 05_212263a3](https://github.com/user-attachments/assets/e02f9c5e-9c36-4945-a067-16e0b82862f8)
+Star Vanila - Milkshake
+  - 17 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 05_11d6d01e](https://github.com/user-attachments/assets/af97ecda-16cb-41f8-8644-97f7872c3280)
+Star Strawberry Milkshake
+  - 17 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 05_37e8385a](https://github.com/user-attachments/assets/1f3bf6b0-2cb3-488e-adbb-cf0ca0a0d58e)
+Star Chocolate Milkshake
+  - 17 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 07_c4fbd00b](https://github.com/user-attachments/assets/2a25529c-7292-4353-a554-948cfa9e6524)
+Star Strawberry Lemonade
+  - 16 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 07_869bf3b6](https://github.com/user-attachments/assets/c1aa2ba6-ff9a-4fc4-b8b1-ac4668e10597)
+Star Lemonade
+  - 16 RON
+
+#### ![WhatsApp Image 2025-02-28 at 20 09 03_2e5f04e4](https://github.com/user-attachments/assets/a8134f35-50a3-44b7-abfb-741de74b9654)
+Star Kisses
+  - 5 RON
+
+   
+
     
-    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
