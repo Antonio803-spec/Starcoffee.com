@@ -4,7 +4,7 @@
 
 #### ![Iced Americano Star](https://github.com/user-attachments/assets/8ccb18f1-68e0-483c-a30b-059f7d91c90f) 
 
-Iced Americano - Star
+Iced Americano - Star          Această băutură este preferată de cei care doresc un gust autentic de cafea, dar într-o variantă mai puțin concentrată decât un espresso simplu și mai puțin cremoasă decât un iced latte. Se poate consuma simplu sau îndulcit.
   - 8 RON
 
   - Această băutură este preferată de cei care doresc un gust autentic de cafea,
