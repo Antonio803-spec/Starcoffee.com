@@ -85,7 +85,7 @@ Star Prosciutto - Felii subțiri de prosciutto, rucola proaspătă, brânza�
 Star Chicken - Cu piept de pui la grătar, sos de maioneză cu lămâie, avocado cremos, rucola proaspătă și roșii coapte, toate așezate între două felii de pâine artizanală ușor prăjite, oferind un echilibru perfect între gusturi și texturi.
   - 14 RON
 
-[https://antonio803-spec.github.io/starcoffeeproduse.github.io/](https://antonio803-spec.github.io/starcoffeeproduse.github.io/)
+[Produsele Noastre](https://antonio803-spec.github.io/starcoffeeproduse.github.io/)
 
 
 
